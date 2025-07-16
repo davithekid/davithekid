@@ -1,9 +1,6 @@
 ## 👋 Hello World!! Eu sou o **Davi** 😁
 
 Desenvolvo aplicações back-end usando Java e Node.js.  
-Gosto de criar sistemas que funcionem bem na prática e estou sempre aprendendo coisas novas para melhorar meu código.
-
-Agora, estou focado em entender melhor arquiteturas modernas e escrever um código mais limpo e eficiente.
 
 ---
 
