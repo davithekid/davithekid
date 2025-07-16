@@ -11,7 +11,7 @@
 <hr/>
 
 <div align="left">
-  <h3>🛠️ Techs</h3>
+  <h3>Techs</h3>
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="Spring Boot" />&nbsp;&nbsp;
