@@ -51,14 +51,19 @@
 
 ## 🚀 Featured Projects  
 
-<h3><a href="https://github.com/davithekid/zelos">Zelos</a></h3>
-<p>• Full-stack ticketing system with JWT authentication, Active Directory, CRUD operations, Node.js, Next.js, MySQL, and Docker.</p>
+<div align="left">
 
-<h3><a href="https://github.com/davithekid/V-MAP">V-MAP</a></h3>
-<p>• Full-stack school transportation management system with JWT authentication, CRUD operations, Node.js, Next.js, and MySQL.</p>
+🔹 <b><a href="https://github.com/davithekid/zelos">Zelos</a></b>  
+&nbsp;&nbsp;&nbsp;Full-stack ticketing system with JWT authentication, Active Directory, CRUD operations, Node.js, Next.js, MySQL, and Docker.  
 
-<h3><a href="https://github.com/davithekid/controle-financas">Finance Control</a></h3>
-<p>• Back-end finance control system with JWT authentication, CRUD operations using Spring Boot.</p>
+🔹 <b><a href="https://github.com/davithekid/V-MAP">V-MAP</a></b>  
+&nbsp;&nbsp;&nbsp;Full-stack school transportation management system with JWT authentication, CRUD operations, Node.js, Next.js, and MySQL.  
+
+🔹 <b><a href="https://github.com/davithekid/controle-financas">Finance Control</a></b>  
+&nbsp;&nbsp;&nbsp;Back-end finance control system with JWT authentication, CRUD operations using Spring Boot.  
+
+</div>
+
 
 ---
 
