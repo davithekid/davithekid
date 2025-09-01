@@ -1,45 +1,78 @@
-<h2 align="center">&lt;Hello World!! eu sou o <b>Davi Chagas</b>! /&gt;</h2>
+<h2 align="center">&lt;Hello World!! I'm <b>Davi Chagas</b>! /&gt;</h2>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=750&color=1E90FF&background=00000000&center=true&width=600&fade=false&lines=Aspiring+Back-End+Developer" alt="Typing SVG" />
-</a>
-
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=750&color=1E90FF&background=00000000&center=true&width=600&fade=false&lines=Future+Software+Engineer" 
+         alt="Typing SVG" />
+  </a>
 </div>
 
 <p align="center" style="margin-top: 10px;">
-  Atualmente cursando <b>Desenvolvimento de Sistemas</b> no <b>SENAI</b> (3º semestre)<br />
-  Desenvolvo aplicações <b>back-end</b> usando <b>Java</b> e <b>Node.js</b>.
+  Currently studying <b>Systems Development</b> at <b>SENAI</b> (3rd semester)<br />
+  I develop <b>back-end</b> applications using <b>Java</b> and <b>Node.js</b> and have a strong interest in <b>infrastructure and cloud</b>.
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=davithekid&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=false" height="150" alt="Estatísticas do GitHub do Davi" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=davithekid&layout=compact&langs_count=5&theme=radical&hide_border=false" height="150" alt="Principais linguagens do Davi" />
+  <img src="https://github-readme-stats.vercel.app/api?username=davithekid&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=false" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=davithekid&layout=compact&langs_count=5&theme=radical&hide_border=false" height="150" alt="Top Languages" />
 </div>
 
 ---
 
-### Techs
+## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="Spring Boot" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="Next.js" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="Tailwind CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
-</p>
+<div align="center">
+
+**Languages**  
+![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
+![PHP](https://img.shields.io/badge/-PHP-000?style=for-the-badge&logo=php)
+
+**Backend / Frameworks**  
+![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js)
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-000?style=for-the-badge&logo=spring)
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css)
+
+**Databases**  
+![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=postgresql)
+
+**Tools / DevOps**  
+![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker)
+![Linux](https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=linux)
+![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
+
+</div>
 
 ---
 
-<p align="left">
-  <a href="https://linkedin.com/in/chagas-davi" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="35" alt="LinkedIn" />
+## 🚀 Featured Projects  
+
+<h3><a href="https://github.com/davithekid/zelos">Zelos</a></h3>
+<p>• Full-stack ticketing system with JWT authentication, Active Directory, CRUD operations, Node.js, Next.js, MySQL, and Docker.</p>
+
+<h3><a href="https://github.com/davithekid/V-MAP">V-MAP</a></h3>
+<p>• Full-stack school transportation management system with JWT authentication, CRUD operations, Node.js, Next.js, and MySQL.</p>
+
+<h3><a href="https://github.com/davithekid/controle-financas">Finance Control</a></h3>
+<p>• Back-end finance control system with JWT authentication, CRUD operations using Spring Boot.</p>
+
+---
+
+## 🎓 Education
+- Programming Language C# - SENAI (2022)  
+- Systems Development - SENAI (2024-2025)
+
+---
+
+<div align="center">
+  <a href="https://linkedin.com/in/chagas-davi" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p>
+  <a href="https://wa.me/5511942766704" target="_blank">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</div>
