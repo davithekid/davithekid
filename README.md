@@ -9,7 +9,7 @@
 
 <p align="center" style="margin-top: 10px;">
   Currently studying <b>Systems Development</b> at <b>SENAI</b> (3rd semester)<br />
-  I develop <b>back-end</b> applications using <b>Java</b> and <b>Node.js</b> and have a strong interest in <b>infrastructure and cloud</b>.
+  I develop <b>back-end</b> applications using <b>Node.js</b> and have a strong interest in <b>infrastructure and cloud</b>.
 </p>
 
 ---
@@ -28,13 +28,15 @@
 **Languages**  
 ![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
-![PHP](https://img.shields.io/badge/-PHP-000?style=for-the-badge&logo=php)
 
 **Backend / Frameworks**  
 ![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js)
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-000?style=for-the-badge&logo=spring)
+![Express](https://img.shields.io/badge/-Express-000?style=for-the-badge&logo=express)
+![Fastify](https://img.shields.io/badge/-Fastify-000?style=for-the-badge&logo=fastify)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css)
+![Shadcn](https://img.shields.io/badge/-Shadcn-000?style=for-the-badge&logo=shadcn)
 
 **Databases**  
 ![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql)
